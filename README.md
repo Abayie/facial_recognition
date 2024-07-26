@@ -36,7 +36,7 @@ You can run this code locally with these few easy steps.
 1. Clone the repository
 
 ```bash
-https://github.com/kuleafenu/Facial_recognition_application.git
+https://github.com/Abayie/facial_recognition.git
 ```
 
 2. Install dependencies
